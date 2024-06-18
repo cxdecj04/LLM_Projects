@@ -1,11 +1,9 @@
-This is a tool which can answer questionnaires written in excel sheet based on a PDF context.
+This tool can answer questionnaires written in an Excel sheet based on the context of a PDF.
 <br>
-How to use the tool?
+How to use the tool:
 <br>
-1.Upload PDF for the context of the answers.
+Upload the PDF for the context of the answers.
+Upload the questionnaire in the form of an Excel sheet.
+Download the filled questionnaire.
 <br>
-2.Upload the Questionnaire in the form of excel sheet.
-<br>
-3.Download the filled Questionnaire.
-<br>
-Author- Chaitanya Joshi
+Author: Chaitanya Joshi
