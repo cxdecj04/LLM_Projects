@@ -84,8 +84,8 @@ def main(pdf_paths, excel_path, output_excel):
 
 if __name__ == "__main__":
 
-    pdf_paths = ["LOM.pdf"]
-    excel_path = "ques2.xlsx"
+    pdf_paths = ["yor_pdf_file.pdf"]
+    excel_path = "your_excel_file.xlsx"
     output_excel = "output_with_answers.xlsx"
 
     main(pdf_paths, excel_path, output_excel)
