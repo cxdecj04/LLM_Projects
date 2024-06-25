@@ -1,4 +1,4 @@
-This tool can answer questionnaires written in an Excel sheet based on the context of a PDF.
+This tool can answer questionnaires written in an Excel sheet based on the content of a PDF.
 <br>
 How to use the tool:
 <br>
