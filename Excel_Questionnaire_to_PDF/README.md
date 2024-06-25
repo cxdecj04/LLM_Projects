@@ -8,4 +8,3 @@ Upload the questionnaire in the form of an Excel sheet.
 <br>
 Download the filled questionnaire.
 <br>
-Author: Chaitanya Joshi
